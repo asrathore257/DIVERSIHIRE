@@ -51,10 +51,10 @@
                                 <h4>Contact Info</h4>
                                 <ul>
                                     <li>
-                                        <p>Address :VIT, Vellore Campus, Tiruvalam Rd, Katpadi, Vellore, Tamil Nadu 632014.</p>
+                                        <p>Banglore Headquatre</p>
                                     </li>
-                                    <li><a href="#">Phone : 987654312</a></li>
-                                    <li><a href="#">Email : inneedsupport@email.com</a></li>
+                                    <li><a href="#">Phone : 6367815606</a></li>
+                                    <li><a href="#">Email : diversihire@email.com</a></li>
                                 </ul>
                             </div>
 
@@ -63,17 +63,16 @@
                     <div class="col-xl-3 col-lg-3 col-md-4 col-sm-5">
                         <div class="single-footer-caption mb-50">
                             <div class="footer-tittle">
-                                <h4>Important Link</h4>
+                                <h4>Direct Go</h4>
 								<ul>
 				
 				
 				
 
-				<li><a href="seeker.login.php">Seeker Login</a></li>
+				<li><a href="seeker.login.php">Finder Login</a></li>
 				<li><a href="employer_login.php">Employer Login</a></li>
                 
                 <li><a href="search.jobs.php">Search Job</a></li>
-                <li><a href="all_jobs.php">All Jobs</a></li>
                 <li><a href="contact.php">Contact Us</a></li>
 			</ul>
                             </div>

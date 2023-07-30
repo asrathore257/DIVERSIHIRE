@@ -11,7 +11,7 @@
     <head>
         <meta charset="UTF-8" />
         <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
-        <title>Inneed</title>
+        <title>diversihire</title>
         <link rel="shortcut icon" type="image/x-icon" href="assets/img/logo/logo.png">
         <link rel="stylesheet" href="https://unpkg.com/handsfree@8.5.1/build/lib/assets/handsfree.css" />
         <script src="https://unpkg.com/handsfree@8.5.1/build/lib/handsfree.js"></script>
